@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Daniel Fischer! 👋
 
-<!--
-**fishingpvalues/fishingpvalues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Scientist** with expertise in Python, Process Mining, and Digital Twins and Simulation.
+🔬 Focused on **data-driven insights** and creating **scalable solutions**.  
+⚡ Learning Rust and C for low-level programming and performance optimization.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python
+- **Frameworks & Tools:** Pandas, Scikit-learn, Matplotlib, PyTorch, Docker, Git, ...
+- **Specialties:** Process Mining, Digital Twins, Data Mining  
+
+### 📈 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishingpvalues&show_icons=true&theme=radical)
+
+---
+
+💼 Open to collaboration opportunities. Let's connect!  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/danielfischerbielefeld/) | 📧 fishingpvalues@example.com
+
+---
