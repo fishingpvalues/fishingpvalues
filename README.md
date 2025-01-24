@@ -1,28 +1,6 @@
 # Hi there, I'm Daniel Fischer (a.k.a. fishingpvalues) 👋  
 ### *Data Scientist @ Qunevo*
-```
-             *     ,MMM8&&&.            *
-                  MMMM88&&&&&    .
-                 MMMM88&&&&&&&
-     *           MMM88&&&&&&&&
-                 MMM88&&&&&&&&
-                 'MMM88&&&&&&'
-                   'MMM8&&&'      *    
-           /\/|_      __/\\
-          /    -\    /-   ~\  .              '
-          \    = Y =T_ =   /
-           )==*(`     `) ~ \
-          /     \     /     \
-          |     |     ) ~   (
-         /       \   /     ~ \
-         \       /   \~     ~/
-  jgs_/\_/\__  _/_/\_/\__~__/_/\_/\_/\_/\_/\_
-  |  |  |  | ) ) |  |  | ((  |  |  |  |  |  |
-  |  |  |  |( (  |  |  |  \\ |  |  |  |  |  |
-  |  |  |  | )_) |  |  |  |))|  |  |  |  |  |
-  |  |  |  |  |  |  |  |  (/ |  |  |  |  |  |
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-```
+
 [![GitHub Views](https://komarev.com/ghpvc/?username=fishingpvalues&color=blue)](https://github.com/fishingpvalues)
 [![GitHub Followers](https://img.shields.io/github/followers/fishingpvalues?style=social)](https://github.com/fishingpvalues?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danielfischerbielefeld/)
