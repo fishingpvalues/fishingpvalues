@@ -1,6 +1,12 @@
 # Hi there, I'm Daniel Fischer (a.k.a. fishingpvalues) 👋  
 ### *Data Scientist @ Qunevo*
-
+```
+   /\_/\
+   >^.^<.---.
+  _'-`-'     )\
+ (6--\ |--\ (`.`-.
+     --'  --'  ``-'BP   cat
+```
 ---
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=fishingpvalues&color=blue)](https://github.com/fishingpvalues)
