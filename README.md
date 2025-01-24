@@ -1,5 +1,5 @@
 # Hi there, I'm Daniel Fischer (a.k.a. fishingpvalues) 👋  
-### *Data Scientist @ Qunevo | Python Enthusiast | Learning C & Rust for Low-Level Fun*
+### *Data Scientist @ Qunevo*
 
 ---
 
@@ -10,10 +10,8 @@
 ---
 
 ### 🖥️ **About Me**
-```plaintext
 Driven data scientist with a passion for clean code and analytical solutions. 
 I specialize in process mining, digital twins, and Python-based data pipelines.
-```
 
 - 🌍 Based in **Bielefeld, Germany**  
 - 🧠 Currently focused on **process mining** and **digital twins**  
@@ -23,43 +21,45 @@ I specialize in process mining, digital twins, and Python-based data pipelines.
 
 ### 🔧 **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ---
 
-### 🌟 **GitHub Highlights**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fishingpvalues&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fishingpvalues&layout=compact&theme=radical)
+### 💻 **Skills**
+#### Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+#### Data Analysis:
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CBBF0?style=for-the-badge&logo=data%20science&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+
+#### Machine Learning:
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF7F00?style=for-the-badge&logo=python&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-FFBC00?style=for-the-badge&logo=python&logoColor=white)
+
+#### Deep Learning:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+#### Tools:
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-ffb13b?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
 
-### 🏆 **Achievements**
-![Trophy](https://github-profile-trophy.vercel.app/?username=fishingpvalues&theme=radical&column=4)
+### 📁 **Projects**
 
----
+Here you find some projects which I encountered during my graduation or work. All code is created by me. The data used is usually well-known data in the field and DOES NOT contain information of anyone who I worked for. Feel free to have a look.
 
-### 📈 **Activity Graph**
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=fishingpvalues&theme=react-dark)
+#### 🎓 [Whiteboxing a Neural Network in PyTorch with Captum](https://github.com/fishingpvalues/whitebox-pytorch-captum)
+- **Description:** We use Captum to describe the classification decisions of a neural network. The crux here was enabling multiclass classification comparison, which wasn't possible with the vanilla framework.  
+- **Role:** Working student  
+- **Tools/Technologies Used:** Python, PyTorch, Captum  
+- **Outcomes:** Several neurons shared a strong association with certain outcomes.  
+  👉 [Read the full paper here](https://www.researchgate.net/publication/383236390_Demystifying_Reinforcement_Learning_in_Production_Scheduling_via_Explainable_AI)
 
----
 
-### ✨ **Pinned Projects**
-Here are some of my favorite projects. Check them out! 👇
-
-#### 📁 [TorBox Utils](https://github.com/fishingpvalues/torbox-utils)
-> *A Python-based manager for TorBox debrid services. Perfect for handling torrents with simplicity.*
-
-#### 📝 [Master Thesis](https://github.com/fishingpvalues/masterthesis)
-> *Code and analysis for my master's thesis on process mining and digital twins.*
-
-#### 📦 [Data Science Utilities](https://github.com/fishingpvalues/ds-utils)
-> *A collection of tools and scripts I use daily as a data scientist.*
-
----
-
-### 💬 **Inspirational Quote**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-### 🌐 **Connect With Me**)
+### 🌐 **Connect With Me**
 - 💼 LinkedIn: [linkedin.com/in/fishingpvalues](https://www.linkedin.com/in/fishingpvalues)
+- 📝 Blog: *Coming Soon!*
