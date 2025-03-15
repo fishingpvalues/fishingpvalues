@@ -109,6 +109,52 @@ Systematic Literature Review shedding light on Digital Twins for discrete materi
 **Tech:** Python, Scikit-Learn  
 
 ---
+### [Call of Duty Object Detection 🎯](https://github.com/fishingpvalues/COD-MW-Warzone.v2i.yolov8)
+
+**Description:** YOLOv8-powered model for detecting enemy soldiers in Call of Duty: Warzone. Exploring computer vision for gameplay analysis & cheat detection.
+
+
+#### 🔍 Research Questions
+
+- RQ1: How well does YOLOv8 detect enemy silhouettes in FPS games?
+- RQ2: Can CV models help identify potential cheats?
+
+#### 🛠 Methodology
+
+- Detection Mode: Warzone dataset (labels: "enemy", "head")
+- Pose Mode: Zero-shot silhouette detection
+
+#### 📂 Dataset
+
+- Warzone images (Roboflow, CC BY 4.0)
+- Custom test set (newer game versions)
+
+#### 🚀 Implementation
+
+- Hardware: RTX 4070 Ti, CUDA 11.8
+- Software: PyTorch 2.3.1, AdamW (LR: 0.01)
+- Training: Early stopping (3 epochs patience)
+
+#### 📊 Results
+
+- mAP50-95: 0.530 (object detection)
+- Pose model excels in silhouette detection
+- Generalizes to new game versions
+- Struggles with occlusions (e.g., head-glitching)
+
+#### 🎮 Applications
+
+- Esports analysis
+- CV model training data
+- Virtual environments & metaverse
+
+#### 🔮 Future Work
+
+- Multi-modal fusion (visual + audio)
+- Enhanced occlusion handling
+- Cross-game transfer learning
+
+---
 
 ### 📊 [Kaggle Projects (work in progress)](https://github.com/fishingpvalues/kagglestuff)  
 
