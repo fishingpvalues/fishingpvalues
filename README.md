@@ -1,5 +1,5 @@
 # Hi there, I'm Daniel Fischer (a.k.a. fishingpvalues) 👋  
-### *Junior Data Scientist M. Sc. (from 05/2025)*
+### *M. Sc. Data Science*
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=fishingpvalues&color=blue)](https://github.com/fishingpvalues)
 [![GitHub Followers](https://img.shields.io/github/followers/fishingpvalues?style=social)](https://github.com/fishingpvalues?tab=followers)
@@ -9,7 +9,7 @@
 
 ## 🖥️ About Me  
 
-👨‍💻 **Data Scientist | ML Engineer | Digital Twin Specialist**  
+👨‍💻 **Data Scientist | ML Engineer | Digital Twins | Data Analytics**  
 
 I specialize in applied machine learning, deep learning, explainable AI, and digital twins for industrial applications. My focus is on bridging the gap between complex ML models and real-world business solutions.
 
