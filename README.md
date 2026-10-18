@@ -1,6 +1,7 @@
 ### Daniel Fischer
 
-Software engineer and data scientist in Bielefeld, Germany. I build and run
+ML platform / LLM engineer, software engineer and data scientist in Bielefeld,
+Germany. I build and run
 LLM platforms: model selection, GPU serving on Kubernetes, RAG, agentic
 workflows and the evaluation that tells you whether any of it works.
 
@@ -19,8 +20,9 @@ M.Sc. Data Science (Hochschule Bielefeld), B.Sc. Economics (Universität Bielefe
   routing to 122B models, documented in the
   [developer docs](https://developer.mittwald.de/docs/v2/platform/aihosting/models/)
 - Evaluation, load testing and guardrails for production LLM APIs
-- Coding agents (Claude Code, Codex, pi, opencode) against self-hosted models,
-  every change reviewed
+- Agents with tool calling (TypeScript, Mastra), RAG building blocks (embeddings,
+  reranker, OCR) and cascade routing from the smallest to the largest model
+- Coding agents (Claude Code, Codex) against self-hosted models, every change reviewed
 
 #### Publications
 
@@ -34,6 +36,7 @@ M.Sc. Data Science (Hochschule Bielefeld), B.Sc. Economics (Universität Bielefe
 
 | Project | What it is |
 |---|---|
+| [awesome-vllm-plugins](https://github.com/fishingpvalues/awesome-vllm-plugins) | Curated list of open vLLM plugins (vLLM plugin system) |
 | [simpleaudiospectral](https://github.com/fishingpvalues/simpleaudiospectral) | Self-hosted signal analysis web app; releases, CI, coverage, SBOM and SLSA provenance, multi-arch images |
 | [rustypastechat](https://github.com/fishingpvalues/rustypastechat) | Android chat app (Kotlin, Material 3) with an assistant on any OpenAI-compatible endpoint; tested, released |
 | [resnet-bilstm-attention-dt](https://github.com/fishingpvalues/resnet-bilstm-attention-dt) | Master's thesis code: verification and validation of simulation-based digital twins |
