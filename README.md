@@ -36,7 +36,6 @@ M.Sc. Data Science (Hochschule Bielefeld), B.Sc. Economics (Universität Bielefe
 
 | Project | What it is |
 |---|---|
-| [awesome-vllm-plugins](https://github.com/fishingpvalues/awesome-vllm-plugins) | Curated list of open vLLM plugins (vLLM plugin system) |
 | [simpleaudiospectral](https://github.com/fishingpvalues/simpleaudiospectral) | Self-hosted signal analysis web app; releases, CI, coverage, SBOM and SLSA provenance, multi-arch images |
 | [rustypastechat](https://github.com/fishingpvalues/rustypastechat) | Android chat app (Kotlin, Material 3) with an assistant on any OpenAI-compatible endpoint; tested, released |
 | [resnet-bilstm-attention-dt](https://github.com/fishingpvalues/resnet-bilstm-attention-dt) | Master's thesis code: verification and validation of simulation-based digital twins |
