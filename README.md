@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/danielfischerbielefeld) ·
+[LinkedIn](https://www.linkedin.com/in/danielfischerbielefeld)
 
 
 - [simpleaudiospectral](https://github.com/fishingpvalues/simpleaudiospectral):
