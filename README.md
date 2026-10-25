@@ -1,52 +1,44 @@
 ### Daniel Fischer
 
-ML platform / LLM engineer, software engineer and data scientist in Bielefeld,
-Germany. I build and run
-LLM platforms: model selection, GPU serving on Kubernetes, RAG, agentic
-workflows and the evaluation that tells you whether any of it works.
-
-Currently at [mittwald](https://www.mittwald.de/mstudio/ai-hosting), AI Hosting.
-M.Sc. Data Science (Hochschule Bielefeld), B.Sc. Economics (Universität Bielefeld).
+Data scientist and LLM engineer in Bielefeld, Germany. At
+[mittwald](https://www.mittwald.de/mstudio/ai-hosting) I run the LLM platform
+our customers use: which models we offer, how they are served on Kubernetes,
+and how we measure that they work. M.Sc. Data Science (HSBI), B.Sc. Economics
+(Universität Bielefeld).
 
 [LinkedIn](https://www.linkedin.com/in/danielfischerbielefeld) ·
 [Publications](https://github.com/fishingpvalues/papers) ·
-[mittwald AI Hosting docs](https://developer.mittwald.de/docs/v2/platform/aihosting/)
+[Model docs I write](https://developer.mittwald.de/docs/v2/platform/aihosting/models/)
 
-#### Work
+**Day to day:** Python, SQL and Go on Linux. vLLM, Kubernetes, LiteLLM.
+Evaluation, load tests, RAG, agents with tool calling. Measuring energy and
+CO2e per request. I work with coding agents (Claude Code, Codex) every day and
+review every change they make.
 
-- LLM inference on 2x NVIDIA RTX PRO 6000 Blackwell with vLLM, Kubernetes,
-  Helm, KEDA and the NVIDIA KAI scheduler
-- Model portfolio and selection for mittwald AI Hosting, from Qwen3.5-0.8B for
-  routing to 122B models, documented in the
-  [developer docs](https://developer.mittwald.de/docs/v2/platform/aihosting/models/)
-- Evaluation, load testing and guardrails for production LLM APIs
-- Agents with tool calling (TypeScript, Mastra), RAG building blocks (embeddings,
-  reranker, OCR) and cascade routing from the smallest to the largest model
-- Coding agents (Claude Code, Codex) against self-hosted models, every change reviewed
+**Projects**
 
-#### Publications
+- [simpleaudiospectral](https://github.com/fishingpvalues/simpleaudiospectral):
+  self-hosted web app that finds lossy transcodes in lossless audio.
+  TypeScript, releases, CI, SBOM and SLSA provenance.
+- [rustypastechat](https://github.com/fishingpvalues/rustypastechat):
+  Android chat app (Kotlin, Material 3) with an assistant on any
+  OpenAI-compatible endpoint.
+- [deepseek-harness-docker](https://github.com/fishingpvalues/deepseek-harness-docker):
+  multi-arch container image for a coding-agent harness, rebuilt daily.
+- [resnet-bilstm-attention-dt](https://github.com/fishingpvalues/resnet-bilstm-attention-dt):
+  master's thesis code, verification and validation of simulation-based
+  digital twins with real factory data.
+- [german-nlp-clustering](https://github.com/fishingpvalues/german-nlp-clustering):
+  clustering German customer feedback.
 
-- Fischer, D. et al. (2024). *Demystifying Reinforcement Learning in Production
-  Scheduling via Explainable AI.* [arXiv:2408.09841](https://arxiv.org/abs/2408.09841)
-- Schwede, C., Fischer, D. (2024). *Learning Simulation-Based Digital Twins for
-  Discrete Material Flow Systems: A Review.* Winter Simulation Conference 2024.
-  [doi:10.1109/WSC63780.2024.10838729](https://doi.org/10.1109/WSC63780.2024.10838729)
+**Upstream:** [litellm#36064](https://github.com/BerriAI/litellm/pull/36064)
+(live registry of active requests), vLLM bug reports with reproductions
+([#37295](https://github.com/vllm-project/vllm/issues/37295),
+[#21303](https://github.com/vllm-project/vllm/issues/21303)).
 
-#### Selected projects
+**Papers:** [Explainable RL in production scheduling](https://arxiv.org/abs/2408.09841)
+(arXiv 2024) · [Simulation-based digital twins, a review](https://doi.org/10.1109/WSC63780.2024.10838729)
+(Winter Simulation Conference 2024)
 
-| Project | What it is |
-|---|---|
-| [simpleaudiospectral](https://github.com/fishingpvalues/simpleaudiospectral) | Self-hosted signal analysis web app; releases, CI, coverage, SBOM and SLSA provenance, multi-arch images |
-| [rustypastechat](https://github.com/fishingpvalues/rustypastechat) | Android chat app (Kotlin, Material 3) with an assistant on any OpenAI-compatible endpoint; tested, released |
-| [resnet-bilstm-attention-dt](https://github.com/fishingpvalues/resnet-bilstm-attention-dt) | Master's thesis code: verification and validation of simulation-based digital twins |
-| [papers](https://github.com/fishingpvalues/papers) | PDFs of my publications |
-
-#### Homelab
-
-Two Linux servers running about 130 containerised services with Docker Compose,
-kept as infrastructure as code: VictoriaMetrics, Grafana and Alertmanager for
-monitoring, SOPS-encrypted secrets, access through Tailscale, encrypted
-off-site backups, around 800 unit tests and pre-commit hooks. Document OCR with
-self-hosted models, an AI agent with long-term memory, and a Home Assistant
-smart home the agent can control through MCP. The repository is private;
-happy to walk through it.
+At home two Linux servers run about 130 services as code, with monitoring,
+encrypted secrets and backups. That repo is private; happy to walk you through it.
